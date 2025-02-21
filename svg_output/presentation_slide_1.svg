@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10in" height="5.625in" class="slides-canvas" viewBox="0 0 720 405">
+  <defs>
+    <marker id="ah1" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="14" viewBox="-12 -7 24 14" orient="auto">
+      <path d="M5.4 -0L-0.6 3-0.6-3 5.4 -0z" fill="#000000" />
+    </marker>
+    <marker id="ah2" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="14" viewBox="-12 -7 24 14" orient="auto">
+      <path d="M-5.4 0L0.6-3 0.6 3-5.4 0z" fill="#000000" />
+    </marker>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="720" height="405" fill="#FFFFFF" />
+    <path fill="#CCCCCC" d="M36 36L180 36 180 72 36 72z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M36 36L180 36 180 72 36 72z" />
+    <g transform="matrix(1, 0, 0, 1, 43.199997, 39.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="28.168655" y="20.448002"><tspan x="28.168655" y="20.448002">Cerebrum</tspan></text></g>
+    <path fill="#CCCCCC" d="M252 36L396 36 396 72 252 72z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M252 36L396 36 396 72 252 72z" />
+    <g transform="matrix(1, 0, 0, 1, 259.2, 39.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="1.362503" y="20.448002"><tspan x="1.362503" y="20.448002">Signal acquisition</tspan></text></g>
+    <path fill="#CCCCCC" d="M252 280.8L396 280.8 396 316.8 252 316.8z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M252 280.8L396 280.8 396 316.8 252 316.8z" />
+    <g transform="matrix(1, 0, 0, 1, 259.2, 284.4)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="8.351761" y="20.448002"><tspan x="8.351761" y="20.448002">External Device</tspan></text></g>
+    <path fill="#FFFFFF" d="M468 28.8L720 28.8 720 158.4 468 158.4z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M468 28.8L720 28.8 720 158.4 468 158.4z" />
+    <path fill="#CCCCCC" d="M486 36L702 36 702 72 486 72z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M486 36L702 36 702 72 486 72z" />
+    <g transform="matrix(1, 0, 0, 1, 493.2, 39.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="8.945023" y="20.448002"><tspan x="8.945023" y="20.448002">Electric-Signal Processing</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 493.2, 75.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="0" y="20.448002"><tspan x="0" y="20.448002">Pretreatment</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 493.2, 97.2)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="0" y="20.448002"><tspan x="0" y="20.448002">Feature Extraction</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 493.2, 118.799995)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="0" y="20.448002"><tspan x="0" y="20.448002">Classification and Recognition</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 511.2, 298.80002)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="32.15352" y="20.448002"><tspan x="32.15352" y="20.448002">Control Signal</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 43.199997, 298.80002)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="7.119339" y="20.448002"><tspan x="7.119339" y="20.448002">Feedback signal</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 151.2, 57.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="42.486526" y="20.448002"><tspan x="42.486526" y="20.448002">SSVEP</tspan></text></g>
+    <path marker-end="url(#ah1)" stroke-width="2" stroke="#000000" fill="none" d="M180 54L244.52 54 245.52 54" />
+    <path marker-end="url(#ah1)" stroke-width="2" stroke="#000000" fill="none" d="M396 54L460.52 54 461.52 54" />
+    <path stroke-width="2" stroke="#000000" fill="none" d="M594 158.4L594 298.8" />
+    <path marker-start="url(#ah2)" stroke-width="2" stroke="#000000" fill="none" d="M400.48 298.8L401.48 298.8 594 298.8" />
+    <path stroke-width="2" stroke="#000000" fill="none" d="M108 298.8L252 298.8" />
+    <path marker-start="url(#ah2)" stroke-width="2" stroke="#000000" fill="none" d="M108 76.48L108 77.48 108 298.8" /><text font-family="Arial" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFD8CF" fill-opacity="0.75" x="268.125" y="162.28125"><tspan x="267.91287" y="162.06912" textLength="183.75" id="tp_0_shadow" fill="#000000">Evaluation only.</tspan><tspan x="268.125" y="162.28125" textLength="183.75" id="tp_0">Evaluation only.</tspan><tspan x="58.60037" y="188.88162" textLength="602.375" id="tp_1_shadow" fill="#000000">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="58.8125" y="189.09375" textLength="602.375" id="tp_1">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="151.72537" y="215.69412" textLength="416.125" id="tp_2_shadow" fill="#000000">Copyright 2004-2025Aspose Pty Ltd.</tspan><tspan x="151.9375" y="215.90625" textLength="416.125" id="tp_2">Copyright 2004-2025Aspose Pty Ltd.</tspan></text></g>
+</svg>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/14.1.2/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.0/styles/default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANYTHINGLLM 聊天機器人</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <!-- 左側的 LLM 對話框 -->
+        <div id="chat-container">
+            <h2>Diagram generator</h2>
+            <div id="chat-box"></div>
+            <div id="input-container">
+                <input type="text" id="user-input" placeholder="請輸入您的問題..." />
+                <button id="send-button">發送</button>
+            </div>
+        </div>
+        
+        <!-- 中間的 SVG 預覽框 -->
+        <div id="svg-container">
+            <h2>SVG 預覽</h2>
+            <div id="svg-preview"></div>
+            <button id="download-ppt-button">下載 PPT</button>
+            <button id="send-to-gpt-button">生成verilog</button>
+        </div>
+        
+
+    </div>
+    <script src="chatbot.js" defer></script>
+</body>
+</html>
