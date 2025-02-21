@@ -138,6 +138,7 @@ docker run -p 3001:3000 anythingllm_pptgen
  ├─📄 Dockerfile          # Docker build configuration
  ├─📄 docker-compose.yml  # Docker Compose setup
  ├─📄 package.json        # Node.js dependencies
+ ├─📄 package-lock.json   # Dependency lockfile
  ├─📄 .env                # Environment variables (not committed)
  ├─📄 README.md           # Project documentation
  ├─📄 LICENSE             # MIT License
