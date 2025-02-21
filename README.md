@@ -1,8 +1,3 @@
-<video width="600" controls>
-  <source src="https://github.com/Apacecore/AnythingLLM_PPTGen/blob/main/Video%20Project.mp4">
-  Your browser does not support the video tag.
-</video>
-
 # 📌 AnythingLLM_PPTGen
 An open-source tool that integrates **AnythingLLM** and **pptgenjs** to generate and execute PowerPoint diagrams.
 
