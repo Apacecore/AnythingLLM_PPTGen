@@ -96,6 +96,7 @@ docker run -p 3001:3000 anythingllm_pptgen
 ## 📂 Project Structure
 ```
 📁 AnythingLLM_PPTGen
+ ├─📁 node_modules        # Node.js dependencies (not committed)
  ├─📁 public              # Static files (if needed)
  ├─📁 svg_output          # SVG-converted files
  ├─📄 server.js           # Main backend server
@@ -111,7 +112,7 @@ docker run -p 3001:3000 anythingllm_pptgen
 
 ---
 
-## 📛 License
+## 📜 License
 This project is licensed under the **MIT License**. Feel free to modify and contribute!  
 
 ---
