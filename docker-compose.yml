@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  anythingllm:
+    image: mintplexlabs/anythingllm
+    container_name: anythingllm
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+    restart: always
+    environment:
+      - ALLOWED_HOSTS=*
+      - PORT=3000
+    networks:
+      - internal_network
+
+  pptgenjs:
+    build: .
+    container_name: pptgenjs
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: ["node", "server.js"]
+    depends_on:
+      - anythingllm
+    networks:
+      - internal_network
+
+networks:
+  internal_network:
+    driver: bridge
