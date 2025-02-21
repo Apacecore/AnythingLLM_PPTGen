@@ -2,7 +2,9 @@
 An open-source tool that integrates **AnythingLLM** and **pptgenjs** to generate and execute PowerPoint diagrams.
 
 
-https://github.com/user-attachments/assets/cc523536-ca8d-495a-8216-4a00cf3cbfa4
+
+https://github.com/user-attachments/assets/736359ea-fc42-47e3-8769-589fe54f412e
+
 
 
 ---
