@@ -12,9 +12,11 @@
   "description": "",
   "dependencies": {
     "axios": "^1.7.7",
+    "cookie": "^1.0.2",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "openai": "^4.68.1",
+    "path-to-regexp": "^6.2.0",
     "pptxgenjs": "^3.12.0"
   }
 }
