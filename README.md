@@ -4,6 +4,37 @@ An open-source tool that integrates **AnythingLLM** and **pptgenjs** to generate
 https://github.com/user-attachments/assets/b7d115a8-765b-4300-ba31-f35dfd29e16a
 
 ---
+## 🚀 Library Access Limitation
+
+This repository is integrated with **AnythingLLM**, but users can only access the preloaded library of text files. The available documents include:
+
+### **AI & Chip Design**
+- `AI_system_basic.txt`
+- `CNN_chip.txt`
+- `chip_design_flow.txt`
+- `IC_design_flow.txt`
+- `IC_design_flow(digital&analog).txt`
+- `FPGA_Avalon_System_Presentation.txt`
+- `AR_glasses_inference_chip.txt`
+- `AR_glasses_inference_fpga.txt`
+- `HM0361_image_sensor.txt`
+
+### **LCD & Display Technology**
+- `LCD.txt`
+- `LCD_Controller.txt`
+- `LCD_Display.txt`
+- `LCD_Board_and_LCD_Module.txt`
+- `LCD_panel_with_RGB_interface.txt`
+- `TFT-LCD driver system.txt`
+
+### **EEG & BCI Control**
+- `EEG_BCI_Control.txt`
+- `EEG_BCI_Robot_Control.txt`
+- `SSVEP_Control_Flowchart.txt`
+
+📌 **Users cannot upload or modify additional documents within the system. Only these preloaded files will be accessible for reference.**
+
+
 
 ## 🚀 Features
 ✅ **AI-Generated Diagrams** – Uses AnythingLLM to create `pptgenjs` code based on user queries.  
