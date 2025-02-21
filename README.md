@@ -1,5 +1,6 @@
 # 📌 AnythingLLM_PPTGen
 An open-source tool that integrates **AnythingLLM** and **pptgenjs** to generate and execute PowerPoint diagrams.
+![image](https://github.com/user-attachments/assets/e54fd974-cb28-45c1-8f0f-84e67b8e1050)
 
 ---
 
